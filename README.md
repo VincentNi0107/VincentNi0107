@@ -5,9 +5,8 @@ Before that, I was an undergraduate student from EE at Shanghai Jiao Tong Univer
 
 <!-- I'm looking forward to pursue a Phd degree in systems (architecture, database or parallel systems). -->
 <!-- I’m also interested in system software. Building up basic compoments of computer system excites me! -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentNi0107)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VincentNi0107)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentNi0107&layout=compact&langs_count=8&hide=TeX,Makefile,CMake,Perl,Shell&theme=dracula)
 
 <!---
 VincentNi0107/VincentNi0107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
